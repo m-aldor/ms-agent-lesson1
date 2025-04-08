@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-m+_d_)1*o)0a_o&sj%t!rfq^a07^m7za*33lg(2^pgd)44a6f!
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['miniature-yodel-69ww57rpjqjx35w99-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
